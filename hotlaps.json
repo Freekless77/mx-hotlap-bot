@@ -1,0 +1,114 @@
+{
+  "hotlaps": [
+    {
+      "user_id": 147488423161233409,
+      "username": "Freekless",
+      "track": "Fsx Glendale",
+      "bike": "Yamaha YZ 250F",
+      "time_seconds": 68.785,
+      "time_display": "1:08.785",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 147488423161233409,
+      "username": "Freekless",
+      "track": "Wolf",
+      "bike": "Husqvarna FC 350",
+      "time_seconds": 116.42099999999999,
+      "time_display": "1:56.421",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 147488423161233409,
+      "username": "Freekless",
+      "track": "Wolf Creek",
+      "bike": "Husqvarna FC 350",
+      "time_seconds": 116.42099999999999,
+      "time_display": "1:56.421",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 843336218133004308,
+      "username": "Zykoa",
+      "track": "Rolling Hills Mx",
+      "bike": "Husqvarna FC 250",
+      "time_seconds": 145.657,
+      "time_display": "2:25.657",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 147488423161233409,
+      "username": "Freekless",
+      "track": "Rolling Hills Mx",
+      "bike": "GasGas MCF 450",
+      "time_seconds": 146.657,
+      "time_display": "2:26.657",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 147488423161233409,
+      "username": "Freekless",
+      "track": "Southernpikeridge",
+      "bike": "Husqvarna FC 250",
+      "time_seconds": 95.331,
+      "time_display": "1:35.331",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 843336218133004308,
+      "username": "Zykoa",
+      "track": "Diablomx Ranch",
+      "bike": "Husqvarna FC 250",
+      "time_seconds": 103.337,
+      "time_display": "1:43.337",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 1265131721787965623,
+      "username": "Ayden",
+      "track": "Fsx Glendale",
+      "bike": "KTM 250 SX-F",
+      "time_seconds": 66.931,
+      "time_display": "1:06.931",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 843336218133004308,
+      "username": "Zykoa",
+      "track": "Fsx Glendale",
+      "bike": "Husqvarna FC 250",
+      "time_seconds": 66.925,
+      "time_display": "1:06.925",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 843336218133004308,
+      "username": "Zykoa",
+      "track": "Rolling Hills Mx",
+      "bike": "Husqvarna FC 250",
+      "time_seconds": 146.657,
+      "time_display": "2:26.657",
+      "date": "04/03/2026",
+      "notes": null
+    },
+    {
+      "user_id": 843336218133004308,
+      "username": "Zykoa",
+      "track": "Monster Mountain",
+      "bike": "Husqvarna FC 250",
+      "time_seconds": 114.99000000000001,
+      "time_display": "1:54.990",
+      "date": "04/03/2026",
+      "notes": null
+    }
+  ]
+}
