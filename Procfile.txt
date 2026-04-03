@@ -1,0 +1,1 @@
+worker: playwright install chromium && python bot_hotlap_member_select_refresh_guildsync.py
